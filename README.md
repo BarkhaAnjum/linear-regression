@@ -1,4 +1,4 @@
-# Task 3 — Linear Regression (Housing Dataset)
+# Linear Regression (Housing Dataset)
 
 ### Overview
 This project is part of my internship tasks at Elevate Labs.  
